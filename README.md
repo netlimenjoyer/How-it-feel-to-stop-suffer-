@@ -43,6 +43,12 @@ I love to win.
 
 ###
 
+<div align="center" style="margin-top: 18px;">
+  <img src="https://img.shields.io/badge/Profile%20Views-99,999-black?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
